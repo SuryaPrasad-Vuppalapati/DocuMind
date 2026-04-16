@@ -1,13 +1,4 @@
 # DocuMind: PDF RAG & Extraction Pipeline
-
-**Team Name:** OptimizeZ  
-
-**Members:**  
-- Yogesh Sankaranarayanan jayanthi  
-- Surya Prasad Vuppalapati  
-- Jaswanth Thathireddy  
-- Bhanu Prakash Kuncham  
-
 ---
 
 ## Project Description
