@@ -1,0 +1,11 @@
+# Install with UV: uv pip install -r requirements.txt
+PyMuPDF>=1.23.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+faiss-cpu>=1.8.0
+numpy>=1.24.0
+gradio>=5.0.0
+rank_bm25>=0.2.2
+duckduckgo-search>=5.0.0
+mcp>=1.0.0
+Pillow>=10.0.0

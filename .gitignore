@@ -1,0 +1,25 @@
+.venv/
+.env
+
+__pycache__/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+*.tmp
+.temp/
+temp/
+.DS_Store
+
+# Data & Output generated during runtime
+data/*.faiss
+data/*.json
+data/pdfs/
+data/reports/
+data/session_memory/
+data/cost.json
+
+# You can keep an empty data folder tracked if you make a .gitkeep file inside it, but exclude data files
+!data/.gitkeep
